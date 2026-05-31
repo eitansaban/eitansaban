@@ -1,6 +1,6 @@
 ### Hi, I'm Eitan 👋
 
-Enterprise sales leader by day, builder of AI agents by night.
+Sales leader by day, builder of AI agents by night — **agentic selling on steroids** is my mantra.
 
 I lead sales at PayPal, and outside of work I design and ship autonomous agent
 systems — tools that research, write, monitor, and operate on a schedule without
